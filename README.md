@@ -1,5 +1,3 @@
-#<h1 align="center">✨ Hi there, I'm 林凌灵 (CiallorZ) ✨</h1>
-
 <p align="center">
   <a href="https://github.com/CiallorZ">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Full-Stack+Development+%E2%9C%A6+Network+Security;Python+%7C+C%23+%7C+JavaScript;Code+is+my+magic+%E2%9C%A8" alt="Typing SVG" />

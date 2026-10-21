@@ -148,8 +148,10 @@ exploring AI × security — ops by day, builder by night
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiallorZ&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiallorZ&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CiallorZ&theme=tokyonight&utcOffset=8" alt="Productive time" />
 </p>
+
 
 ### 🐍 Contribution Snake
 
@@ -162,5 +164,5 @@ exploring AI × security — ops by day, builder by night
 ---
 
 <p align="center">
-  <i>Thanks for stopping by~ またね！🌸</i>
+  <i>Thanks for stopping by~ またね! 🌸</i>
 </p>

@@ -11,10 +11,6 @@
   二次元 × 技术宅 —— 白天写代码，夜里补番 (๑•̀ㅂ•́)و✧
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CiallorZ&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
-</p>
-
 ```bash
 $ whoami
 CiallorZ — full-stack developer & network security enthusiast
@@ -81,6 +77,18 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
+**⚡ AI Compute & Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/vLLM-000000?style=flat" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GPU_Computing-76B900?style=flat" alt="GPU Computing" />
+</p>
+
 **🗄️ Database & Middleware**
 
 <p>
@@ -89,6 +97,18 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
+
+**☁️ Cloud Native**
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white" alt="Istio" />
+  <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white" alt="containerd" />
 </p>
 
 **🛡️ Network Security**

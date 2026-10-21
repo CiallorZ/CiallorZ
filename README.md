@@ -11,6 +11,13 @@
   二次元 × 技术宅 —— 白天写代码，夜里补番 (๑•̀ㅂ•́)و✧
 </p>
 
+<p align="center">
+  <a href="#-languages">💻 Languages</a> ·
+  <a href="#-tech-stack">🧰 Tech Stack</a> ·
+  <a href="#-github-stats">📊 Stats</a> ·
+  <a href="#-contribution-snake">🐍 Snake</a>
+</p>
+
 ```bash
 $ whoami
 CiallorZ — full-stack developer & network security enthusiast
@@ -20,6 +27,9 @@ frontend · backend · AI · security — build, break, fix, repeat
 
 $ uptime
 coding since 2014, still shipping 🚀
+
+$ tail -1 ./now.log
+exploring AI × security — ops by day, builder by night
 ```
 
 ---
@@ -39,7 +49,7 @@ coding since 2014, still shipping 🚀
 
 ### 🧰 Tech Stack
 
-**🌐 Frontend**
+#### 🌐 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
@@ -52,7 +62,7 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-**⚙️ Backend**
+#### ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -63,7 +73,7 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-**🤖 AI & Machine Learning**
+#### 🤖 AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -77,7 +87,7 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-**⚡ AI Compute & Infrastructure**
+#### ⚡ AI Compute & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA" />
@@ -85,11 +95,10 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" alt="ONNX" />
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat" alt="TensorRT" />
   <img src="https://img.shields.io/badge/vLLM-000000?style=flat" alt="vLLM" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GPU_Computing-76B900?style=flat" alt="GPU Computing" />
 </p>
 
-**🗄️ Database & Middleware**
+#### 🗄️ Database & Middleware
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
@@ -99,7 +108,7 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-**☁️ Cloud Native**
+#### ☁️ Cloud Native
 
 <p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -111,7 +120,7 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white" alt="containerd" />
 </p>
 
-**🛡️ Network Security**
+#### 🛡️ Network Security
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-214478?style=flat" alt="Nmap" />
@@ -120,7 +129,7 @@ coding since 2014, still shipping 🚀
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-**🔧 DevOps & Tools**
+#### 🔧 DevOps & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
@@ -135,7 +144,11 @@ coding since 2014, still shipping 🚀
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CiallorZ&show_icons=true&theme=tokyonight" alt="CiallorZ's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiallorZ&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=CiallorZ&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiallorZ&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ### 🐍 Contribution Snake

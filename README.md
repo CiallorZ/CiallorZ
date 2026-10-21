@@ -153,6 +153,10 @@ exploring AI × security — ops by day, builder by night
 </p>
 
 
+<p align="center">
+  <img src="assets/stats-terminal.gif" alt="CiallorZ live stats terminal" width="880" />
+</p>
+
 ### 🐍 Contribution Snake
 
 <picture>

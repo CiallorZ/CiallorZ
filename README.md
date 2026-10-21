@@ -143,13 +143,13 @@ exploring AI × security — ops by day, builder by night
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CiallorZ&show_icons=true&theme=tokyonight&custom_title=CiallorZ%27s%20GitHub%20Stats" alt="CiallorZ's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=CiallorZ&theme=tokyonight" alt="GitHub streak" />
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CiallorZ&theme=tokyonight" alt="Stats" />
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CiallorZ&theme=tokyonight&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiallorZ&layout=compact&theme=tokyonight" alt="Top languages" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CiallorZ&theme=tokyonight&utcOffset=8" alt="Productive time" />
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CiallorZ&theme=tokyonight" alt="Repos per language" />
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CiallorZ&theme=tokyonight" alt="Most commit language" />
 </p>
 
 
@@ -164,5 +164,5 @@ exploring AI × security — ops by day, builder by night
 ---
 
 <p align="center">
-  <i>Thanks for stopping by~ またね! 🌸</i>
+  <i>Thanks for stopping by~ またね！🌸</i>
 </p>

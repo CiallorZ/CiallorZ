@@ -37,14 +37,14 @@ exploring AI × security — ops by day, builder by night
 ### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat" alt="SQL" />
+  <img height="38" src="https://cdn.simpleicons.org/python" alt="Python" title="Python" />
+  <img height="38" src="https://cdn.simpleicons.org/csharp" alt="C#" title="C#" />
+  <img height="38" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" />
+  <img height="38" src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" />
+  <img height="38" src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" />
+  <img height="38" src="https://cdn.simpleicons.org/css3" alt="CSS3" title="CSS3" />
+  <img height="38" src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash" />
+  <br/><sub>also: SQL</sub>
 </p>
 
 ### 🧰 Tech Stack
@@ -52,92 +52,90 @@ exploring AI × security — ops by day, builder by night
 #### 🌐 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img height="38" src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" />
+  <img height="38" src="https://cdn.simpleicons.org/css3" alt="CSS3" title="CSS3" />
+  <img height="38" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" />
+  <img height="38" src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" />
+  <img height="38" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" title="Vue.js" />
+  <img height="38" src="https://cdn.simpleicons.org/react" alt="React" title="React" />
+  <img height="38" src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" />
+  <img height="38" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
 #### ⚙️ Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img height="38" src="https://cdn.simpleicons.org/python" alt="Python" title="Python" />
+  <img height="38" src="https://cdn.simpleicons.org/csharp" alt="C#" title="C#" />
+  <img height="38" src="https://cdn.simpleicons.org/dotnet" alt=".NET" title=".NET" />
+  <img height="38" src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" />
+  <img height="38" src="https://cdn.simpleicons.org/express/888888" alt="Express" title="Express" />
+  <img height="38" src="https://cdn.simpleicons.org/flask/888888" alt="Flask" title="Flask" />
 </p>
 
 #### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img height="38" src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" />
+  <img height="38" src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow" title="TensorFlow" />
+  <img height="38" src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" />
+  <img height="38" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" />
+  <img height="38" src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" />
+  <img height="38" src="https://cdn.simpleicons.org/openai" alt="OpenAI" title="OpenAI" />
+  <img height="38" src="https://cdn.simpleicons.org/numpy" alt="NumPy" title="NumPy" />
+  <img height="38" src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" />
+  <img height="38" src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" title="Jupyter" />
 </p>
 
 #### ⚡ AI Compute & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat" alt="TensorRT" />
-  <img src="https://img.shields.io/badge/vLLM-000000?style=flat" alt="vLLM" />
-  <img src="https://img.shields.io/badge/GPU_Computing-76B900?style=flat" alt="GPU Computing" />
+  <img height="38" src="https://cdn.simpleicons.org/nvidia" alt="NVIDIA" title="NVIDIA" />
+  <img height="38" src="https://cdn.simpleicons.org/onnx" alt="ONNX" title="ONNX" />
+  <img height="38" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" />
+  <br/><sub>also: CUDA · TensorRT · vLLM · GPU Computing</sub>
 </p>
 
 #### 🗄️ Database & Middleware
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
+  <img height="38" src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" />
+  <img height="38" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" />
+  <img height="38" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" title="MongoDB" />
+  <img height="38" src="https://cdn.simpleicons.org/redis" alt="Redis" title="Redis" />
+  <img height="38" src="https://cdn.simpleicons.org/nginx" alt="Nginx" title="Nginx" />
 </p>
 
 #### ☁️ Cloud Native
 
 <p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white" alt="Istio" />
-  <img src="https://img.shields.io/badge/containerd-575757?style=flat&logo=containerd&logoColor=white" alt="containerd" />
+  <img height="38" src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" title="Kubernetes" />
+  <img height="38" src="https://cdn.simpleicons.org/helm" alt="Helm" title="Helm" />
+  <img height="38" src="https://cdn.simpleicons.org/prometheus" alt="Prometheus" title="Prometheus" />
+  <img height="38" src="https://cdn.simpleicons.org/grafana" alt="Grafana" title="Grafana" />
+  <img height="38" src="https://cdn.simpleicons.org/argo" alt="Argo CD" title="Argo CD" />
+  <img height="38" src="https://cdn.simpleicons.org/istio" alt="Istio" title="Istio" />
+  <img height="38" src="https://cdn.simpleicons.org/containerd" alt="containerd" title="containerd" />
 </p>
 
 #### 🛡️ Network Security
 
 <p>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=flat" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Nuclei-000000?style=flat" alt="Nuclei" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img height="38" src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" title="Kali Linux" />
+  <img height="38" src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" title="Wireshark" />
+  <img height="38" src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" />
+  <br/><sub>also: Nmap · Nuclei</sub>
 </p>
 
 #### 🔧 DevOps & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img height="38" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" />
+  <img height="38" src="https://cdn.simpleicons.org/git" alt="Git" title="Git" />
+  <img height="38" src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" title="VS Code" />
+  <img height="38" src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" />
+  <img height="38" src="https://cdn.simpleicons.org/ansible" alt="Ansible" title="Ansible" />
+  <img height="38" src="https://cdn.simpleicons.org/powershell" alt="PowerShell" title="PowerShell" />
 </p>
 
 ### 📊 GitHub Stats

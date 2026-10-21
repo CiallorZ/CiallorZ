@@ -151,10 +151,6 @@ exploring AI × security — ops by day, builder by night
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiallorZ&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CiallorZ&theme=tokyo-night&hide_border=true&area=true&custom_title=CiallorZ%27s%20Contribution%20Graph" alt="Contribution graph" />
-</p>
-
 ### 🐍 Contribution Snake
 
 <picture>

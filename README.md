@@ -143,13 +143,13 @@ exploring AI × security — ops by day, builder by night
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CiallorZ&theme=tokyonight" alt="Stats" />
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CiallorZ&theme=tokyonight&utcOffset=8" alt="Productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CiallorZ&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CiallorZ&theme=tokyonight&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CiallorZ&theme=tokyonight" alt="Repos per language" />
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CiallorZ&theme=tokyonight" alt="Most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CiallorZ&theme=tokyonight" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CiallorZ&theme=tokyonight" alt="Most commit language" />
 </p>
 
 
@@ -160,9 +160,9 @@ exploring AI × security — ops by day, builder by night
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CiallorZ/CiallorZ/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CiallorZ/CiallorZ/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CiallorZ/CiallorZ/output/github-contribution-grid-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CiallorZ/CiallorZ/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CiallorZ/CiallorZ/output/github-contribution-grid-snake.svg" />
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CiallorZ/CiallorZ/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
